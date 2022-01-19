@@ -1,0 +1,1 @@
+function ts.json:internal/start
