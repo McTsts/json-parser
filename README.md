@@ -7,3 +7,4 @@ Parses json char arrays (obtained by [string parsing](https://github.com/McTsts/
 data modify storage ts.json:io in set value <char array>
 function ts.json:call
 ```
+[Example](https://github.com/McTsts/json-parser/blob/main/data/ts.json/functions/example.mcfunction)
